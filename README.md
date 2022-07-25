@@ -7,11 +7,17 @@ Alfred Workflow for viewing and downloading scientific papers from Sci-Hub via D
 1. Set a download path as environmental variable (`path`).
 2. Set the Sci-Hub domain which you want to use (default: `https://sci-hub.hkvisa.net`) as environmental variable (`scihuburl`).
 
-# Usage
+## Usage
 
-Enter `doi` followed by `o` to open the paper on Sci-Hub or `d`to download the paper directly.
+Enter `doi` followed by `o` to open the paper on Sci-Hub or `d` to download the paper directly.
 
 ![](/screenshot1.jpg)
+
+### Arguments
+
+**`o`** -> Open the paper on Sci-Hub
+
+**`d`** -> Download the paper directly
 
 ## Dependencies
 
