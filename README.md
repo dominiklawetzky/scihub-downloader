@@ -37,5 +37,7 @@ In order to download papers directly you have to [install](https://formulae.brew
 brew install wget
 ```
 
-*Legal notice:* Using Sci-Hub is not legal in some countries. Please consider this. This project has a solely experimental purpose and should not be an incentive to using an illegal tool.
+---
+
+*Legal notice: Using Sci-Hub is not legal in some countries. Please consider this. This project has a solely experimental purpose and should not be an incentive to using an illegal tool.*
 
