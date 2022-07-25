@@ -11,7 +11,7 @@ Alfred Workflow for viewing and downloading scientific papers from Sci-Hub via D
 
 Enter `doi` followed by `o` to open the paper on Sci-Hub or `d`to download the paper directly.
 
-![](/screenshot1.png)
+![](/screenshot1.jpg)
 
 ## Dependencies
 
